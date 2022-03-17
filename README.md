@@ -1,12 +1,10 @@
 # lda-topic-model
 
 ## Topic Modeling
----
 - Topic Modeling aims to find the most representative topic (or topics) for a given  set of documents. 
 <br/><br/>
 
 ## LDA as Topic Modeling
----
 - #TODO: explain a little in your own words
 - Look [here](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/06/01/LDA/) for a more thorough explanation. (Korean)
 - [Here](https://youtu.be/T05t-SqKArY) is a great explanatory youtube video. (English)
@@ -14,7 +12,6 @@
 <br/><br/>
 
 ## Implementation
----
 - Input: documents (type: list of list(str)) <br/>
   Output: topic distribution of a document
           word distribution of a topic
