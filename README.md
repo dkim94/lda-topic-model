@@ -20,7 +20,7 @@
       - Reference: [here](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/07/09/lda/)
 
    2. Using the gensim package ([gensim-package](gensim-package))
-      - Reference: [here](https://radimrehurek.com/gensim/models/ldamodel.html)
+      - Reference: [here](https://radimrehurek.com/gensim/models/ldamodel.html) and [here](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
       - And many more references on the web (google lda gensim)
 
 
